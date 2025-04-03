@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [CHOI SEOK YONG]!
 
 🌟 **Full-Stack Developer** | Passionate about building dynamic and scalable web applications.
 
